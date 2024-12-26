@@ -1,0 +1,19 @@
+  culture   
+    a      h
+science    i
+    g      s
+    u      t
+    a      o
+    g      r
+   geography
+         h  
+ mathematics
+   e     l  
+   c     o  
+   h     s  
+   n     o  
+   o     p  
+   l     h  
+   o     y  
+   g        
+   y        
